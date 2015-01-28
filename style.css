@@ -1,0 +1,14 @@
+* {margin:0;}
+div#main {
+  width:1500px;
+  margin:0 auto;
+  background-image: url("images/sky_ski.jpg");
+  background-position: center;
+  background-repeat: no-repeat;}
+
+ div#margin {
+  margin-top: 0px;
+  margin-bottom: 150px;
+  margin-right: 150px;
+  margin-left: 150px;
+ } 
