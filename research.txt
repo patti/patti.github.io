@@ -1,0 +1,10 @@
+.. title: Research
+.. slug: research
+.. date: 2015-05-07 19:33:46 UTC-07:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+Write your page here.
