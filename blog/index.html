@@ -1,4 +1,19 @@
 <!DOCTYPE html>
+
+<script>
+code_show=true; 
+function code_toggle() {
+ if (code_show){
+ $('div.input').hide();
+ $('div.prompt').hide();
+ } else {
+ $('div.input').show();
+ }
+ code_show = !code_show
+} 
+</script>
+
+
 <html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
     <head>
     <meta charset="utf-8">
@@ -26,7 +41,7 @@
 
 
 </head>
-<body>
+<body onload=code_toggle()>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
 
 <!-- Menubar -->
@@ -98,6 +113,10 @@
                 <p class="commentline">
         
     <a href="hello-world.html#disqus_thread" data-disqus-identifier="cache/posts/hello-world.html">Comments</a>
+
+    <br>
+    <a href="javascript:code_toggle()">toggle code cells</a>
+       
 
 
         </p>
