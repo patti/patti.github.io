@@ -6,39 +6,71 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://patti.github.io/2015/index.html</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
  </url>
  <url>
   <loc>http://patti.github.io/Kauai/Kauai/index.html</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2015-06-10</lastmod>
  </url>
  <url>
   <loc>http://patti.github.io/Kauai/index.html</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
  </url>
  <url>
   <loc>http://patti.github.io/about.html</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/adventures.html</loc>
+  <lastmod>2016-01-03</lastmod>
  </url>
  <url>
   <loc>http://patti.github.io/archive.html</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/blog/astropy-modeling-with-render_model.html</loc>
+  <lastmod>2016-01-03</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/blog/bounding-boxes-and-benchmarking.html</loc>
+  <lastmod>2016-01-03</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/blog/bounding-boxes-and-benchmarking_edits.html</loc>
+  <lastmod>2016-01-03</lastmod>
  </url>
  <url>
   <loc>http://patti.github.io/blog/hello-world.html</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/blog/hello-world_edited.html</loc>
+  <lastmod>2016-01-03</lastmod>
  </url>
  <url>
   <loc>http://patti.github.io/blog/index.html</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/blog/modeling-galaxies.html</loc>
+  <lastmod>2016-01-03</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/blog/temp-title.html</loc>
+  <lastmod>2016-01-03</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/blog/week-1-benchmarking.html</loc>
+  <lastmod>2016-01-03</lastmod>
  </url>
  <url>
   <loc>http://patti.github.io/categories/gsoc.html</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
  </url>
  <url>
   <loc>http://patti.github.io/categories/index.html</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
  </url>
  <url>
   <loc>http://patti.github.io/galleries/index.html</loc>
@@ -46,14 +78,90 @@
  </url>
  <url>
   <loc>http://patti.github.io/index.html</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
  </url>
  <url>
   <loc>http://patti.github.io/listings/index.html</loc>
+  <lastmod>2016-01-03</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/2015/index.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/Kauai/Kauai/index.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/Kauai/index.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/about.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/archive.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/blog/hello-world.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/blog/hello-world.src.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/blog/index.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/blog/test-post-2.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/blog/test-post.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/bokeh-plot.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/bokeh-plot.src.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/categories/gsoc.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/categories/index.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/index.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/listings/index.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/photography/Kauai/index.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/photography/index.html</loc>
+  <lastmod>2015-06-04</lastmod>
+ </url>
+ <url>
+  <loc>http://patti.github.io/old/research.html</loc>
   <lastmod>2015-06-04</lastmod>
  </url>
  <url>
   <loc>http://patti.github.io/research.html</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
  </url>
 </urlset>

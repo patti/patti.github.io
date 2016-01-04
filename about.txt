@@ -7,4 +7,4 @@
 .. description: 
 .. type: text
 
-Write your page here.
+I am a PhD candidate in Astronomy at the University of Washington. In my free time, I enjoy exploring the wilderness of the Pacific Northwest. 

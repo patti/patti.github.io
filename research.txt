@@ -7,4 +7,12 @@
 .. description: 
 .. type: text
 
-Write your page here.
+I am a PhD candidate in Astronomy at the University of Washington where I work with low-frequency data from the Murchison Widefield Array (MWA), a radio telescope in Western Australia. I am a junior member of the Epoch of Reionization (EoR) science team. 
+
+The EoR refers to a little understood yet fundamental period of time in the early universe during which the first stars galaxies formed. We aim to detect the EoR via a faint radio signal emitted by neutral Hydrogen atoms. The changing distribution of neutral Hydrogen over time can be used to infer when and how structure formed and reionization proceeded. This in turn will inform our understanding of the fundamental physics ruling our cosmos. 
+
+The biggest hurdle to making an EoR detection are the bright intervening galaxies and quasars in the foreground. These sources are several orders of magnitude brighter than the Hydrogen signal, and so we must subtract them. Subtraction requires a model of unprecedented precision and reliability. The construction of this model is the focus of my thesis.
+
+I've undertaken a survey of sources in the MWA EoR observation field at RA=0. To maximize the fidelity of the resulting foreground model, I've developed machine learning clustering and classification methods to identify sources and rule out contamination from noise or artifacts of imperfect calibration and imaging. Sources are further vetted by cross-matching to comparable radio surveys, followed by careful flagging and examination of outliers. 
+
+The resulting catalog dramatically reduces foreground contamination in the EoR "window". A byproduct of this work is the identification of numerous rare-type sources as well as 21 entirely new radio source detections. 

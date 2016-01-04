@@ -6,22 +6,54 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://patti.github.io/Kauai/Kauai/rss.xml</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2015-06-10</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://patti.github.io/Kauai/rss.xml</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://patti.github.io/blog/rss.xml</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://patti.github.io/categories/gsoc.xml</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2015-06-30</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://patti.github.io/galleries/rss.xml</loc>
+  <lastmod>2015-06-04</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://patti.github.io/old/Kauai/Kauai/rss.xml</loc>
+  <lastmod>2015-06-04</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://patti.github.io/old/Kauai/rss.xml</loc>
+  <lastmod>2015-06-04</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://patti.github.io/old/blog/rss.xml</loc>
+  <lastmod>2015-06-04</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://patti.github.io/old/categories/gsoc.xml</loc>
+  <lastmod>2015-06-04</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://patti.github.io/old/photography/Kauai/rss.xml</loc>
+  <lastmod>2015-06-04</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://patti.github.io/old/photography/rss.xml</loc>
+  <lastmod>2015-06-04</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://patti.github.io/old/rss.xml</loc>
+  <lastmod>2015-06-04</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://patti.github.io/old/sitemap.xml</loc>
   <lastmod>2015-06-04</lastmod>
  </sitemap>
  <sitemap>
@@ -30,6 +62,6 @@
  </sitemap>
  <sitemap>
   <loc>http://patti.github.io/sitemap.xml</loc>
-  <lastmod>2015-06-04</lastmod>
+  <lastmod>2016-01-03</lastmod>
  </sitemap>
 </sitemapindex>
